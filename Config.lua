@@ -1,4 +1,4 @@
 Config = {}
 
 
-config.kickReason = "Modified Ammo"
+Config.kickReason = "Modified Ammo"
